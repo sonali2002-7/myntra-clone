@@ -1,0 +1,24 @@
+.flex{
+    display: flex;
+}
+.items-center{
+align-items: center;
+}
+.justify-center{
+justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+.mx{
+    margin-left:12px;
+    margin-right: 12px;
+}
+.flex-wrap{
+    flex-wrap: wrap;
+}
+footer{
+    padding:23px;
+    text-align: center;
+    box-shadow: rgb(0 0 0/24%) 0px 3px 8px;
+}
